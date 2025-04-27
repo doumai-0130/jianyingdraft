@@ -10,7 +10,7 @@ setup(
     url="https://github.com/doumai-0130/jianyingdraft",
     packages=find_packages(),
     package_data={
-        'jianyingdraft': ['draft_content_template.json']
+        'pyJianYingDraft': ['draft_content_template.json']
     },
     classifiers=[
         "Programming Language :: Python :: 3",
